@@ -1,0 +1,1 @@
+anyio==3.5.0 fastapi==0.97.0 joblib==1.2.0 locustio==0.999 modules==1.0.0 nltk==3.7 numpy==1.23.5 onnxruntime==1.15.0 pandas==1.5.3 pydantic==1.10.5 scikit_learn==1.2.2 torch==1.13.1 tqdm==4.64.1 transformers==4.30.1 
